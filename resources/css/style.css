@@ -1,0 +1,32 @@
+/* Settings for the entire document */
+html {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+header {
+  background-image: url("../img/the-flatiron-building.png");
+  background-size: auto 100%;
+  color: white;
+  width: 100%;
+}
+
+/* Header title */
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+li a {
+  display: block;
+  font-size: 18px;
+  margin: 1em;
+}
+
+a, a:visited {
+  color: white;
+}
